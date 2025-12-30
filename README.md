@@ -1,10 +1,10 @@
 # 💫 About Me:
-- 'I am currently working on': Building scalable, high-performance web and enterprise applications using Java (8/11/17/21), Spring Boot, Microservices, Kafka, Elastic Search, Python, Clojure, React.js and its related tech stacks.<br>
-- I’m looking to collaborate on: Product development, e-commerce, and banking projects using cloud platforms (AWS, GCP, OCI) and modern DevOps practices, including improving CI/CD pipelines with Jenkins, Docker, Kubernetes and Terraform.<br>
-- I’m looking for help: Exploring new opportunities where I can leverage my experience to contribute and drive the company’s growth and value.<br>
-- I’m currently learning: Exploring the latest features in Java 21, deepening my expertise in Kafka, and expanding my knowledge in cloud-native technologies with AWS, GCP, OCI, and Kubernetes. I started to dive into AI technologies and building AI-driven tools.<br>
-- Ask me about: System design, backend architecture, microservices, cloud solutions, and DevOps practices.<br>
-- Fun fact: I’m passionate about learning new frameworks and technologies. Outside of tech, I enjoy trekking, hiking, traveling, and playing tennis and badminton.
+> - **I'm currently working on:** Building scalable, high-performance web and enterprise applications using Java (8/11/17/21), Spring Boot, Microservices, Kafka, Elastic Search, Python, Clojure, React.js and its related tech stacks.<br><br>
+> - **I’m looking to collaborate on:** Product development, e-commerce, and banking projects using cloud platforms (AWS, GCP, OCI) and modern DevOps practices, including improving CI/CD pipelines with Jenkins, Docker, Kubernetes and Terraform.<br><br>
+> - **I’m looking for help:** Exploring new opportunities where I can leverage my experience to contribute and drive the company’s growth and value.<br><br>
+> - **I’m currently learning:** Exploring the latest features in Java 21, deepening my expertise in Kafka, and expanding my knowledge in cloud-native technologies with AWS, GCP, OCI, and Kubernetes. I started to dive into AI technologies and building AI-driven tools.<br><br>
+> - **Ask me about:** System design, backend architecture, microservices, cloud solutions, and DevOps practices.<br><br>
+> - **Fun fact:** I’m passionate about learning new frameworks and technologies. Outside of tech, I enjoy trekking, hiking, traveling, and playing tennis and badminton.<br>
 
 
 ## 🌐 Socials:
