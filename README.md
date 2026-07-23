@@ -5,7 +5,7 @@ Senior Software Engineer | Java Full Stack Engineer | Cloud & Microservices Engi
 </h3>
 
 <p align="center">
-Building scalable distributed systems using Java, Spring Boot, Python, React, Kubernetes, AWS & GCP.
+Building scalable distributed systems using Java, Spring Boot, Python, React, DevOps, AWS & GCP.
 </p>
 
 ---
