@@ -1,13 +1,143 @@
-# 💫 About Me:
-> - **I'm currently working on:** Building scalable, high-performance web and enterprise applications using Java (8/11/17/21), Spring Boot, Microservices, Kafka, Elastic Search, Redis, Python, Clojure, React.js and related tech stacks.<br><br>
-> - **I’m looking to collaborate on:** Product development, e-commerce, and banking projects using cloud platforms (AWS, GCP, OCI) and modern DevOps practices, including improving CI/CD pipelines with Jenkins, Docker, Kubernetes and Terraform.<br><br>
-> - **I’m looking for help:** Exploring new opportunities where I can leverage my experience to contribute and drive the company’s growth and value.<br><br>
-> - **I’m currently learning:** Exploring the latest features in Java 21, deepening my expertise in Kafka, and expanding my knowledge in cloud-native technologies with AWS, GCP, OCI, and Kubernetes. I started to dive into AI technologies and building AI-driven tools.<br><br>
-> - **Ask me about:** System design, backend architecture, microservices, cloud solutions, and DevOps practices.<br><br>
-> - **Fun fact:** I’m passionate about learning new frameworks and technologies. Outside of tech, I enjoy trekking, hiking, traveling, and playing tennis and badminton.<br>
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
+<h3 align="center">
+Senior Software Engineer | Java Full Stack Engineer | Cloud & Microservices Engineer
+</h3>
 
-## 🌐 Socials:
+<p align="center">
+Building scalable distributed systems using Java, Spring Boot, Python, React, Kubernetes, AWS & GCP.
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Senior Software Engineer with **10 years of experience** designing and building enterprise-grade applications for e-commerce, retail, banking, health care and cloud platforms.
+
+I specialize in developing scalable backend systems using Java, Spring Boot, Python, Microservices, Kafka, and cloud-native architectures while also building modern frontends with React.
+
+Throughout my career, I've worked on high-traffic distributed systems, REST APIs, event-driven architectures, cloud migrations, CI/CD automation, and performance optimization.
+
+I enjoy solving complex engineering problems, improving system reliability, and mentoring teams to build maintainable software.
+
+---
+
+## 💼 Experience
+
+✔ 10 Years of Software Development
+
+✔ Enterprise Application Development
+
+✔ Microservices Architecture
+
+✔ Event-Driven Systems (Kafka)
+
+✔ REST API Design
+
+✔ Distributed Systems
+
+✔ Cloud Native Development
+
+✔ Full Stack Development
+
+✔ CI/CD Automation
+
+✔ Performance Optimization
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- Java 8 / 11 / 17 / 21
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Python
+- Fast API
+- GraphQL
+
+### Frontend
+
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Redux
+- HTML5
+- CSS3
+
+### Messaging
+
+- Apache Kafka
+- RabbitMQ
+- Google Pub/Sub
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Oracle
+- MSSQL
+- MongoDB
+- Redis
+- Elasticsearch
+- Cassandra DB
+
+### Cloud
+
+- AWS [IAM, S3, EC2, ECS, ECR, API Gateway, RDS, SQS, SNS, SES, Amplify]
+- Google Cloud Platform (GCP)
+- Oracle Cloud (OCI)
+
+### DevOps
+
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Buildkite
+- Terraform
+- Helm
+
+### Monitoring
+
+- Datadog
+- Grafana
+- Prometheus
+- Splunk
+
+---
+
+## 🌟 What I Enjoy Working On
+
+- Designing scalable microservices
+- Distributed system architecture
+- Performance tuning
+- Cloud migration
+- Backend engineering
+- Full Stack product development
+- CI/CD automation
+- AI-assisted developer productivity
+
+---
+
+## 📌 Currently Exploring
+
+- Java 21
+- Virtual Threads
+- Spring Boot 3
+- Kubernetes Best Practices
+- AI & LLM Integration
+- Cloud Native Architectures
+
+---
+
+## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishkumarmdb) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/manishkumarmdb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkumarmdb@gmail.com) 
 
 # 💻 Tech Stack:
